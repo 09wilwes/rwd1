@@ -65,3 +65,12 @@ img:hover {
   box-shadow: 0 0 10px 5px rgba(0, 30, 250, 0.8);
 }
 
+@media(max-width: 1350px) {
+    img {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 30%;
+    object-fit: cover;
+    }
+}
