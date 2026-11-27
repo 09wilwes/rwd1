@@ -1,9 +1,9 @@
 * {
     box-sizing: border-box;
+    font-family:arial;
 }
 
 body {
-    font-family:arial;
     background-image: linear-gradient(to bottom, gray, white);
 }
 
